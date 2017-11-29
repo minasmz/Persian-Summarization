@@ -30,7 +30,7 @@ You can train your own doc2vec model and load that in your project instead of th
 The stopwords in STOPWORD file is obtained from [persian-stopwords](https://github.com/kharazi/persian-stopwords)
 
 ### Thanks
-I developed this project at Irsapardaz Pasargad office. Thanks to [Amin Mozhgani](https://github.com/AminMozhgani) for his selfless helps during this project.
+I developed this project at [Irsapardaz Pasargad](http://www.irsapardaz.ir/1970/%D8%AE%D9%84%D8%A7%D8%B5%D9%87-%D8%B3%D8%A7%D8%B2-%D9%85%D8%AA%D9%86-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B1%D9%88%D8%A7%D8%A8%D8%B7). Thanks to Mr. [Amin Mozhgani](https://github.com/AminMozhgani) for his selfless helps during this project.
 
 #### Contact
 mina.smz2016@gmail.com
