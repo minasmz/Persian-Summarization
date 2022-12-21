@@ -1,3 +1,7 @@
+For more details you can refer to paper in the following [link](https://arxiv.org/abs/2212.09701)
+If you find this repository helpful, please cite the [paper](https://arxiv.org/abs/2212.09701)
+
+
 # Persian-Summarization
 
 # Statistical and semantical text summarizer in Persian language
